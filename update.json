@@ -1,10 +1,15 @@
 {
-    "version": "1.0.5",
-    "latest_version": "1.1.0",
-    "changelog": "geen bug meer met ox",
-    "author": {
-        "name": "Rookzone",
-        "contact": "discord.gg/flashsecure",
-        "website": "https://flashsecure.eu"
-    }
+    "version": "1.1.0",
+    "author": "Rookzone",
+    "discord": "discord.gg/flashsecure",
+    "website": "https://flashsecure.eu",
+    "changelog": [
+        "Added new detection methods for improved security.",
+        "Fixed a bug that caused false positives in certain scenarios.",
+        "Optimized server-side validation for better performance.",
+        "Updated the ban system to support more identifier types.",
+        "Improved the update system to provide more detailed information."
+    ],
+    "release_date": "2023-10-01",
+    "download_url": "https://github.com/yourrepo/releases/download/v1.1.0/FlashAC.zip"
 }
