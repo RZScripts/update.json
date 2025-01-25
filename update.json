@@ -4,12 +4,8 @@
     "discord": "discord.gg/flashsecure",
     "website": "https://flashsecure.eu",
     "changelog": [
-        "Added new detection methods for improved security.",
-        "Fixed a bug that caused false positives in certain scenarios.",
-        "Optimized server-side validation for better performance.",
-        "Updated the ban system to support more identifier types.",
-        "Improved the update system to provide more detailed information."
+        "Bug Fixes/Perms"
     ],
-    "release_date": "2023-10-01",
+    "release_date": "2025-26-01",
     "download_url": "https://github.com/RZScripts/releases/download/v1.1.0/FlashAC.zip"
 }
